@@ -7,7 +7,7 @@ curl -X GET -H "Content-Type: application/json" "http://127.0.0.1:8762/hello"
 ```
 
 ```shell
-curl -X POST -H "Content-Type: application/json" "http://127.0.0.1:8762/hi?name=testUser" 
+curl -X POST -H "Content-Type: application/json" "http://127.0.0.1:8762/hi?name=testUser"
 ```
 
 ```shell
